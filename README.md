@@ -52,10 +52,3 @@ This project helps stakeholders:
 - Optimize product offerings  
 - Increase overall business performance  
 
-## Reference
-Inspired by a YouTube data analytics project and extended to simulate a real-world business scenario.
-
-##  Author
-Your Name  
-Final Year Undergraduate – Computer Science  
-University of Sri Jayewardenepura
